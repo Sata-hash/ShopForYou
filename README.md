@@ -12,9 +12,7 @@
     <br/>
     <a href="https://shopeasy.vercel.app/"><strong>View Live Demo »</strong></a>
     <br/>
-  <p align="center"><b>🚀Latest update:</b> Added admin panel </p>
-    <br/>
-  </p>
+ 
 </p>
 ## 1. Home Page of Shopeasy...
 ![image](https://github.com/Sata-hash/shopeasy/assets/142712421/586b9994-9541-4927-a3b5-ad66eb9a7edf)
