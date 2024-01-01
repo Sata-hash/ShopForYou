@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="">
-    ![android-chrome-192x192](https://github.com/Sata-hash/shopeasy/assets/142712421/f7dcf4e4-64f1-4ec1-94c5-b39208986c22)
+    <img src="https://github.com/Sata-hash/shopeasy/blob/main/public/android-chrome-192x192.png?raw=true">
   </a>
 
   <h3 align="center">Shopeasy</h3>
