@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="">
-    <img src="https://raw.githubusercontent.com/Sata-hash/shopeasy/main/public/android-chrome-192x192.png
+    <img src="https://raw.githubusercontent.com/dipayansarkar47/shopeasy/main/public/android-chrome-192x192.png
 " width="80" height="80">
   </a>
 
