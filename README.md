@@ -17,7 +17,7 @@
   </p>
 </p>
 ## 1. Home Page of Shopeasy...
-
+![HomePage](https://github.com/Sata-hash/shopeasy/assets/142712421/586b9994-9541-4927-a3b5-ad66eb9a7edf)
 
 
 ## 2. Products List of Shopeasy...
