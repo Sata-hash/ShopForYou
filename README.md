@@ -10,7 +10,7 @@
     E-commerce website for the Gen-Z
     <br/>
     <br/>
-    <a href="https://shopeasy.vercel.app/"><strong>View Live Demo »</strong></a>
+    <a href="https://shopeasyy.vercel.app/"><strong>View Live Demo »</strong></a>
     <br/>
  
 </p>
