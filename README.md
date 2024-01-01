@@ -29,7 +29,7 @@
 ![ProductDetails](https://github.com/Sata-hash/shopeasy/assets/142712421/e4845e96-14dd-437f-a2e8-005a6980857d)
 
 ## 4. Profile page of Shopeasy...
-![image](https://github.com/dipayansarkar47/shopeasy/assets/77672753/1f8c2bad-4225-4290-b366-e894dec4a3cf)
+![ProfilePage](https://github.com/Sata-hash/shopeasy/assets/142712421/78d87861-986d-42d5-9afd-5da43af4bb80)
 
 ## 5. Checkout page...
 ![image](https://github.com/dipayansarkar47/shopeasy/assets/77672753/818c9e22-c118-4f6f-8c67-fc388125513a)
