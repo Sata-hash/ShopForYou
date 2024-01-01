@@ -14,6 +14,7 @@
     <br/>
  
 </p>
+
 ## 1. Home Page of Shopeasy...
 ![HomePage](https://github.com/Sata-hash/shopeasy/assets/142712421/427d7c6b-557c-4fbc-aac0-378383993d11)
 
