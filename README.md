@@ -36,7 +36,7 @@
 
 
 ## 6. Contact us page...
-![image](https://github.com/dipayansarkar47/shopeasy/assets/77672753/547e8115-360f-4032-826e-b7eb7b6eaa68)
+![Contact](https://github.com/Sata-hash/shopeasy/assets/142712421/79e804e7-e3ad-4168-8451-4e3c7cb026d9)
 
 
 
