@@ -17,7 +17,7 @@
   </p>
 </p>
 ## 1. Home Page of Shopeasy...
-![image](https://github.com/dipayansarkar47/shopeasy/assets/77672753/c227a51a-b14c-424a-b5f2-d1648e43433b)
+
 
 
 ## 2. Products List of Shopeasy...
