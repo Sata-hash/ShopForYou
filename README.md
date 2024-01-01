@@ -21,7 +21,8 @@
 
 
 ## 2. Products List of Shopeasy...
-![image](https://github.com/dipayansarkar47/shopeasy/assets/77672753/21be0a46-0f12-4e26-b4df-379006d798f6)
+![ProductPage](https://github.com/Sata-hash/shopeasy/assets/142712421/16357a6d-78b3-4dfc-a318-01ced9b13e90)
+
 
 
 ## 3. Product details page...
