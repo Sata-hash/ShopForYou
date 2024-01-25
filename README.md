@@ -49,6 +49,8 @@
 - 📸 Fakestore API
 - 🎉️ and much more.
 
+  ## Copyright goes to -- Satavisa Das  
+
 
 
 
